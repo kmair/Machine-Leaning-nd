@@ -1,0 +1,13 @@
+
+# Moon data
+ML_SageMaker_Studies/Moon_Data/source_solution
+ML_SageMaker_Studies/Moon_Data/Moon_Classification_Solution.ipynb
+
+# Payment Fraud Detection
+ML_SageMaker_Studies/Payment_Fraud_Detection/creditcard.csv
+ML_SageMaker_Studies/Payment_Fraud_Detection/creditcardfraud.zip
+ML_SageMaker_Studies/Payment_Fraud_Detection/Fraud_Detection_Solution.ipynb
+
+# Time Series Forecasting
+ML_SageMaker_Studies/Time_Series_Forecasting/household_power_consumption.txt
+ML_SageMaker_Studies/Time_Series_Forecasting/Energy_Consumption_Solution.ipynb
